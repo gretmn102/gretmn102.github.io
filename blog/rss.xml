@@ -4,10 +4,138 @@
         <title>My Site Blog</title>
         <link>https://your-docusaurus-site.example.com/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Fri, 25 Oct 2019 21:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2019 05:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Кот-вампир]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/2019/12/31/kot-vampir</link>
+            <guid>https://your-docusaurus-site.example.com/blog/2019/12/31/kot-vampir</guid>
+            <pubDate>Tue, 31 Dec 2019 05:15:00 GMT</pubDate>
+            <description><![CDATA[Вдруг почуял зов кровавый,]]></description>
+            <content:encoded><![CDATA[<p>Вдруг почуял зов кровавый,<br>
+<!-- -->Свет в глазах блеснул лукавый,<br>
+<!-- -->Кот отринул грусть долой,<br>
+<!-- -->На глас дернул роковой.</p>
+<hr>
+<p>И над шеей бледной девы<br>
+<!-- -->Под мурррчащие напевы,<br>
+<!-- -->Он склонился, чтобы впиться,<br>
+<!-- -->Сладкой страстью насладиться.</p>
+<p>Дева веки разомкнула,<br>
+<!-- -->Прочь усатого смахнула,<br>
+<!-- -->Во всю стала угрожать<br>
+<!-- -->И кастрюлей потрясать.</p>]]></content:encoded>
+            <category>стихи</category>
+        </item>
+        <item>
+            <title><![CDATA[Кошмарный кот]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/2019/12/30/koshmarnyj-kot</link>
+            <guid>https://your-docusaurus-site.example.com/blog/2019/12/30/koshmarnyj-kot</guid>
+            <pubDate>Mon, 30 Dec 2019 13:51:28 GMT</pubDate>
+            <description><![CDATA[В полночь пробили часы]]></description>
+            <content:encoded><![CDATA[<p>В полночь пробили часы<br>
+<!-- -->Да истошно взвыли псы.<br>
+<!-- -->Крышка гроба наземь пала,<br>
+<!-- -->Трель на скрипке зазвучала.</p>
+<p>Кот кошмарный встал из гроба,<br>
+<!-- -->На устах взыграла злоба.<br>
+<!-- -->Блик зловещий на усах<br>
+<!-- -->Засверкал и на клыках.</p>
+<p>Лапки ввысь он запустил,<br>
+<!-- -->Что есть мочи возопил:<br>
+<!-- -->— Псы дурные, дайте спать! —<br>
+<!-- -->И обратно лег поспать <img loading="lazy" src="https://cdn.discordapp.com/emojis/625345146934001665.png?size=24" alt="" class="img_ev3q"></p>]]></content:encoded>
+            <category>стихи</category>
+        </item>
+        <item>
+            <title><![CDATA[Разозленный Почка]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/2019/12/27/razozlennyj-pochka</link>
+            <guid>https://your-docusaurus-site.example.com/blog/2019/12/27/razozlennyj-pochka</guid>
+            <pubDate>Fri, 27 Dec 2019 21:38:51 GMT</pubDate>
+            <description><![CDATA[Долго Почку Лана злила,]]></description>
+            <content:encoded><![CDATA[<p>Долго Почку Лана злила,<br>
+<!-- -->За живое зацепила.<br>
+<!-- -->Начал Почка верещать:<br>
+<!-- -->— Эмерджентность — это...</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="контекст">Контекст<a href="https://your-docusaurus-site.example.com/blog/2019/12/27/razozlennyj-pochka#%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82" class="hash-link" aria-label="Direct link to Контекст" title="Direct link to Контекст">​</a></h2>
+<p>А кто его помнит. Просто теплые, далёкие воспоминания о сообществе ролевиков, где пестрили таким сложными словечками как эмерджентность.</p>]]></content:encoded>
+            <category>Лана</category>
+            <category>стихи</category>
+            <category>Почка</category>
+            <category>used</category>
+        </item>
+        <item>
+            <title><![CDATA[Новогодние итоги]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/2019/12/25/novogodnie-itogi</link>
+            <guid>https://your-docusaurus-site.example.com/blog/2019/12/25/novogodnie-itogi</guid>
+            <pubDate>Wed, 25 Dec 2019 08:11:06 GMT</pubDate>
+            <description><![CDATA[Подведу итог, ребята:]]></description>
+            <content:encoded><![CDATA[<p>Подведу итог, ребята:<br>
+<!-- -->Год прошел, мечты сбылись.<br>
+<!-- -->Не подох хоть от упада,<br>
+<!-- -->Не прибили, хоть гордись!</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="контекст">Контекст<a href="https://your-docusaurus-site.example.com/blog/2019/12/25/novogodnie-itogi#%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82" class="hash-link" aria-label="Direct link to Контекст" title="Direct link to Контекст">​</a></h2>
+<p>Переделка стишка, который нашел когда-то в <a href="https://joyreactor.cc/post/4190178" target="_blank" rel="noopener noreferrer">посте на JoyReactor</a>.</p>]]></content:encoded>
+            <category>стихи</category>
+        </item>
+        <item>
+            <title><![CDATA[Заболевший тортик]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/2019/12/22/zabolevshij-tortik</link>
+            <guid>https://your-docusaurus-site.example.com/blog/2019/12/22/zabolevshij-tortik</guid>
+            <pubDate>Sun, 22 Dec 2019 18:20:51 GMT</pubDate>
+            <description><![CDATA[Тортик пыльный расчихался,]]></description>
+            <content:encoded><![CDATA[<p>Тортик пыльный расчихался,<br>
+<!-- -->Котик жутко испугался,<br>
+<!-- -->Маму-кошку начал звать:<br>
+<!-- -->— Тортик надобно спасать!</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="контекст">Контекст<a href="https://your-docusaurus-site.example.com/blog/2019/12/22/zabolevshij-tortik#%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82" class="hash-link" aria-label="Direct link to Контекст" title="Direct link to Контекст">​</a></h2>
+<p>Без понятия, что это и откуда это взялось в моей голове, но пускай будет.</p>]]></content:encoded>
+            <category>стихи</category>
+            <category>стихи_про_торт</category>
+            <category>стихи_про_еду</category>
+        </item>
+        <item>
+            <title><![CDATA[Тортик]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/2019/11/18/tortik</link>
+            <guid>https://your-docusaurus-site.example.com/blog/2019/11/18/tortik</guid>
+            <pubDate>Sun, 17 Nov 2019 22:48:03 GMT</pubDate>
+            <description><![CDATA[Кусьный тортик точно нужен.]]></description>
+            <content:encoded><![CDATA[<p>Кусьный тортик точно нужен.<br>
+<!-- -->Всяк к нему неравнодушен!<br>
+<!-- -->Кусьный тортик мы спечём,<br>
+<!-- -->Целиком его сжуём.</p>]]></content:encoded>
+            <category>стихи</category>
+            <category>стихи_про_торт</category>
+            <category>стихи_про_еду</category>
+        </item>
+        <item>
+            <title><![CDATA[Подземный кусь]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/2019/11/11/podzemnyj-kus</link>
+            <guid>https://your-docusaurus-site.example.com/blog/2019/11/11/podzemnyj-kus</guid>
+            <pubDate>Mon, 11 Nov 2019 11:27:24 GMT</pubDate>
+            <description><![CDATA[Я злой и страшный серый Кусь,]]></description>
+            <content:encoded><![CDATA[<p>Я злой и страшный серый Кусь,<br>
+<!-- -->Я в подземелье заберусь!<br>
+<!-- -->Начну царить в подземном мире,<br>
+<!-- -->Так, что загомонят в трактире!</p>
+<p>Авантюристы соберутся,<br>
+<!-- -->Ко мне в пещеру доберутся,<br>
+<!-- -->Начнут стучаться во врата,<br>
+<!-- -->Хотя защелка отперта.</p>
+<p>Когда ворвутся наконец,<br>
+<!-- -->Я встречу их со всех сердец:<br>
+<!-- -->И чаем с булкой угощу,<br>
+<!-- -->И поцелуем обольщу!</p>
+<p>А посетители остынут<br>
+<!-- -->Да боевой настрой отринут,<br>
+<!-- -->От умиленья расплывутся,<br>
+<!-- -->Задорным смехом засмеются.</p>]]></content:encoded>
+            <category>стихи</category>
+            <category>крякен</category>
+            <category>used</category>
+        </item>
         <item>
             <title><![CDATA[Нетленный и стул]]></title>
             <link>https://your-docusaurus-site.example.com/blog/2019/10/26/netlennyj-i-stul</link>
@@ -41,6 +169,35 @@
 </blockquote>]]></content:encoded>
             <category>стихи</category>
             <category>camp_camp</category>
+        </item>
+        <item>
+            <title><![CDATA[Неизвестная тропа]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/2019/07/20/neizvestnaya-tropa</link>
+            <guid>https://your-docusaurus-site.example.com/blog/2019/07/20/neizvestnaya-tropa</guid>
+            <pubDate>Sat, 20 Jul 2019 06:11:21 GMT</pubDate>
+            <description><![CDATA[Вела меня дорога, всё вела]]></description>
+            <content:encoded><![CDATA[<p>Вела меня дорога, всё вела<br>
+<!-- -->Да наконец куда-то привела.<br>
+<!-- -->Там древо на меня смотрело,<br>
+<!-- -->Хотя глаз совсем не имело...</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="контекст">Контекст<a href="https://your-docusaurus-site.example.com/blog/2019/07/20/neizvestnaya-tropa#%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82" class="hash-link" aria-label="Direct link to Контекст" title="Direct link to Контекст">​</a></h2>
+<p>Вольный перевод какого-то стишка откуда-то из Мира тьмы. Плохо помню уже, к сожалению. Ценности никакой не имеет.</p>]]></content:encoded>
+            <category>стихи</category>
+        </item>
+        <item>
+            <title><![CDATA[Заклинанье]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/2019/06/25/zaklinane</link>
+            <guid>https://your-docusaurus-site.example.com/blog/2019/06/25/zaklinane</guid>
+            <pubDate>Tue, 25 Jun 2019 18:57:37 GMT</pubDate>
+            <description><![CDATA[Добавить сахарок и черепок,]]></description>
+            <content:encoded><![CDATA[<p>Добавить сахарок и черепок,<br>
+<!-- -->Щепотку перца и бурьяна сок,<br>
+<!-- -->Осколок зуба, ломтик туши —<br>
+<!-- -->Дракона зов заложит уши!</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="контекст">Контекст<a href="https://your-docusaurus-site.example.com/blog/2019/06/25/zaklinane#%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82" class="hash-link" aria-label="Direct link to Контекст" title="Direct link to Контекст">​</a></h2>
+<p>Переделка стишка из какой-то интерактивной текстовой игры. Вот вообще не помню, что за игра там была такая. Если судить по стиху, то наверняка там была какая-то ведьма, которая варила зелье с вот таким вот заклинанием.</p>]]></content:encoded>
+            <category>стихи</category>
+            <category>ифня</category>
         </item>
         <item>
             <title><![CDATA[Незадачливый поэт]]></title>

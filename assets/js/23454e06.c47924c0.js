@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgretmn_102_github_io=self.webpackChunkgretmn_102_github_io||[]).push([[9320],{7061:a=>{a.exports=JSON.parse('{"label":"camp_camp","permalink":"/blog/tags/camp-camp","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
