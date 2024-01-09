@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-site.example.com/blog</id>
+    <title>My Site Blog</title>
+    <updated>2019-10-25T21:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-site.example.com/blog"/>
+    <subtitle>My Site Blog</subtitle>
+    <icon>https://your-docusaurus-site.example.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Нетленный и стул]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/2019/10/26/netlennyj-i-stul</id>
+        <link href="https://your-docusaurus-site.example.com/blog/2019/10/26/netlennyj-i-stul"/>
+        <updated>2019-10-25T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Нетленный днями в кресле развлекался,]]></summary>
+        <content type="html"><![CDATA[<p>Нетленный днями в кресле развлекался,<br>
+<!-- -->Металл у стула мягким оказался —<br>
+<!-- -->Нетленный сверзился потешно,<br>
+<!-- -->Стал вспоминать китайцев "нежно".</p>]]></content>
+        <author>
+            <name>Fering</name>
+            <uri>https://github.com/gretmn102</uri>
+        </author>
+        <category label="Нетленный" term="Нетленный"/>
+        <category label="стихи" term="стихи"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Синевласая плясунья]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/2019/10/04/sinevlasaya-plyasunya</id>
+        <link href="https://your-docusaurus-site.example.com/blog/2019/10/04/sinevlasaya-plyasunya"/>
+        <updated>2019-10-04T14:11:42.000Z</updated>
+        <summary type="html"><![CDATA[Мое лицо покрылось краской,]]></summary>
+        <content type="html"><![CDATA[<p>Мое лицо покрылось краской,<br>
+<!-- -->Твои волосья — синевой.<br>
+<!-- -->Ответь же мне прекрасной пляской:<br>
+<!-- -->Залюбовался я тобой.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="вдохновение">Вдохновение<a href="https://your-docusaurus-site.example.com/blog/2019/10/04/sinevlasaya-plyasunya#%D0%B2%D0%B4%D0%BE%D1%85%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B5" class="hash-link" aria-label="Direct link to Вдохновение" title="Direct link to Вдохновение">​</a></h2>
+<blockquote>
+<p>My face blushes red,<br>
+<!-- -->your gorgeous hair's blue,<br>
+<!-- -->come find me to dance,<br>
+<!-- -->I'll have my eye on you<br>
+<!-- -->— из какой-то серии Camp Camp</p>
+</blockquote>]]></content>
+        <author>
+            <name>Fering</name>
+            <uri>https://github.com/gretmn102</uri>
+        </author>
+        <category label="стихи" term="стихи"/>
+        <category label="camp_camp" term="camp_camp"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Незадачливый поэт]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/2019/05/01/nezadachlivyj-poet</id>
+        <link href="https://your-docusaurus-site.example.com/blog/2019/05/01/nezadachlivyj-poet"/>
+        <updated>2019-05-01T16:43:39.000Z</updated>
+        <summary type="html"><![CDATA[Метр от поэта в страхе разбежался,]]></summary>
+        <content type="html"><![CDATA[<p>Метр от поэта в страхе разбежался,<br>
+<!-- -->Все рифмы поскакали кто куда,<br>
+<!-- -->И сколько б он поймать их не пытался,<br>
+<!-- -->Сбежали все без всякого следа.</p>]]></content>
+        <author>
+            <name>Fering</name>
+            <uri>https://github.com/gretmn102</uri>
+        </author>
+        <category label="стихи" term="стихи"/>
+    </entry>
+</feed>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>My Site Blog</title>
+        <link>https://your-docusaurus-site.example.com/blog</link>
+        <description>My Site Blog</description>
+        <lastBuildDate>Fri, 25 Oct 2019 21:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Нетленный и стул]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/2019/10/26/netlennyj-i-stul</link>
+            <guid>https://your-docusaurus-site.example.com/blog/2019/10/26/netlennyj-i-stul</guid>
+            <pubDate>Fri, 25 Oct 2019 21:00:00 GMT</pubDate>
+            <description><![CDATA[Нетленный днями в кресле развлекался,]]></description>
+            <content:encoded><![CDATA[<p>Нетленный днями в кресле развлекался,<br>
+<!-- -->Металл у стула мягким оказался —<br>
+<!-- -->Нетленный сверзился потешно,<br>
+<!-- -->Стал вспоминать китайцев "нежно".</p>]]></content:encoded>
+            <category>Нетленный</category>
+            <category>стихи</category>
+        </item>
+        <item>
+            <title><![CDATA[Синевласая плясунья]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/2019/10/04/sinevlasaya-plyasunya</link>
+            <guid>https://your-docusaurus-site.example.com/blog/2019/10/04/sinevlasaya-plyasunya</guid>
+            <pubDate>Fri, 04 Oct 2019 14:11:42 GMT</pubDate>
+            <description><![CDATA[Мое лицо покрылось краской,]]></description>
+            <content:encoded><![CDATA[<p>Мое лицо покрылось краской,<br>
+<!-- -->Твои волосья — синевой.<br>
+<!-- -->Ответь же мне прекрасной пляской:<br>
+<!-- -->Залюбовался я тобой.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="вдохновение">Вдохновение<a href="https://your-docusaurus-site.example.com/blog/2019/10/04/sinevlasaya-plyasunya#%D0%B2%D0%B4%D0%BE%D1%85%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B5" class="hash-link" aria-label="Direct link to Вдохновение" title="Direct link to Вдохновение">​</a></h2>
+<blockquote>
+<p>My face blushes red,<br>
+<!-- -->your gorgeous hair's blue,<br>
+<!-- -->come find me to dance,<br>
+<!-- -->I'll have my eye on you<br>
+<!-- -->— из какой-то серии Camp Camp</p>
+</blockquote>]]></content:encoded>
+            <category>стихи</category>
+            <category>camp_camp</category>
+        </item>
+        <item>
+            <title><![CDATA[Незадачливый поэт]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/2019/05/01/nezadachlivyj-poet</link>
+            <guid>https://your-docusaurus-site.example.com/blog/2019/05/01/nezadachlivyj-poet</guid>
+            <pubDate>Wed, 01 May 2019 16:43:39 GMT</pubDate>
+            <description><![CDATA[Метр от поэта в страхе разбежался,]]></description>
+            <content:encoded><![CDATA[<p>Метр от поэта в страхе разбежался,<br>
+<!-- -->Все рифмы поскакали кто куда,<br>
+<!-- -->И сколько б он поймать их не пытался,<br>
+<!-- -->Сбежали все без всякого следа.</p>]]></content:encoded>
+            <category>стихи</category>
+        </item>
+    </channel>
+</rss>
