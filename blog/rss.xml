@@ -4,10 +4,187 @@
         <title>My Site Blog</title>
         <link>https://your-docusaurus-site.example.com/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Tue, 31 Dec 2019 05:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2020 02:46:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Зомби лайв меттерс]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/2020/08/06/zombi-lajv-metters</link>
+            <guid>https://your-docusaurus-site.example.com/blog/2020/08/06/zombi-lajv-metters</guid>
+            <pubDate>Thu, 06 Aug 2020 02:46:03 GMT</pubDate>
+            <description><![CDATA[Зомби тоже жить хотят,]]></description>
+            <content:encoded><![CDATA[<p>Зомби тоже жить хотят,<br>
+<!-- -->Маленьких растить зомбят.<br>
+<!-- -->На работу — по утрам,<br>
+<!-- -->Есть мозги по вечерам.</p>]]></content:encoded>
+            <category>стихи</category>
+            <category>зомби</category>
+        </item>
+        <item>
+            <title><![CDATA[Нелегкая кошачья жизнь]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/2020/03/17/nelegkaya-koshachya-zhizn</link>
+            <guid>https://your-docusaurus-site.example.com/blog/2020/03/17/nelegkaya-koshachya-zhizn</guid>
+            <pubDate>Mon, 16 Mar 2020 22:19:28 GMT</pubDate>
+            <description><![CDATA[Грустнота, печаль, тоска,]]></description>
+            <content:encoded><![CDATA[<p>Грустнота, печаль, тоска,<br>
+<!-- -->Жизнь кошачья нелегка:<br>
+<!-- -->Рыбка в море уплыла,<br>
+<!-- -->Теплоту всю забрала.</p>
+<hr>
+<p>Рыбка в море уплыла,<br>
+<!-- -->Грусть, печаль, тоска<br>
+<!-- -->И с собою забрала<br>
+<!-- -->Торт из тайника.</p>]]></content:encoded>
+            <category>стихи</category>
+        </item>
+        <item>
+            <title><![CDATA[Предсонное дело]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/2020/03/10/predsonnoe-delo</link>
+            <guid>https://your-docusaurus-site.example.com/blog/2020/03/10/predsonnoe-delo</guid>
+            <pubDate>Tue, 10 Mar 2020 17:10:45 GMT</pubDate>
+            <description><![CDATA["Поспать бы пойти", — пожелал он себе,]]></description>
+            <content:encoded><![CDATA[<p>"Поспать бы пойти", — пожелал он себе,<br>
+<!-- -->Усталое тело качнулось в мольбе,<br>
+<!-- -->Но дело мелькнуло в размытой тени —<br>
+<!-- -->Лишь мысли о сне уцелели одни.</p>]]></content:encoded>
+            <category>стихи</category>
+            <category>стихи_в_ритме_вальса</category>
+            <category>стихи_про_сон</category>
+        </item>
+        <item>
+            <title><![CDATA[Сотворение]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/2020/03/03/sotvorenie</link>
+            <guid>https://your-docusaurus-site.example.com/blog/2020/03/03/sotvorenie</guid>
+            <pubDate>Tue, 03 Mar 2020 18:59:15 GMT</pubDate>
+            <description><![CDATA[Размах иссиня-чёрных крыл]]></description>
+            <content:encoded><![CDATA[<p>Размах иссиня-чёрных крыл<br>
+<!-- -->Провозгласил начало новой жизни.<br>
+<!-- -->Создатель настежь дверь открыл,<br>
+<!-- -->Да выдались творения капризны.</p>
+<p>Каскад разнообразий<br>
+<!-- -->Заполнил белый свет,<br>
+<!-- -->И за волной фантазий<br>
+<!-- -->Последовал рассвет.</p>
+<p>С рассветом краски блёкли<br>
+<!-- -->Творений праотца,<br>
+<!-- -->И сними вмиг поблёкли<br>
+<!-- -->Прекрасные сердца.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="контекст">Контекст<a href="https://your-docusaurus-site.example.com/blog/2020/03/03/sotvorenie#%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82" class="hash-link" aria-label="Direct link to Контекст" title="Direct link to Контекст">​</a></h2>
+<p>Писалось так: две строчки пишет Лана, две строчки — я. Интересный опыт.</p>]]></content:encoded>
+            <category>Лана</category>
+            <category>стихи</category>
+        </item>
+        <item>
+            <title><![CDATA[Дружба махо-сёдзе]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/2020/02/03/druzhba-maxo-syodze</link>
+            <guid>https://your-docusaurus-site.example.com/blog/2020/02/03/druzhba-maxo-syodze</guid>
+            <pubDate>Mon, 03 Feb 2020 11:58:05 GMT</pubDate>
+            <description><![CDATA[Бьются наши в унисон сердца,]]></description>
+            <content:encoded><![CDATA[<p>Бьются наши в унисон сердца,<br>
+<!-- -->Тонкой прядью спутаны мечты —<br>
+<!-- -->Если обратимся в мертвеца,<br>
+<!-- -->Мы разделим райские пласты.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="контекст">Контекст<a href="https://your-docusaurus-site.example.com/blog/2020/02/03/druzhba-maxo-syodze#%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82" class="hash-link" aria-label="Direct link to Контекст" title="Direct link to Контекст">​</a></h2>
+<blockquote>
+<p>Our hearts beat as one<br>
+<!-- -->When we die<br>
+<!-- -->Dreams linked by gossamer strands<br>
+<!-- -->We'll share a shady tree in heaven<br>
+<!-- -->— Из <a href="https://preview.drivethrurpg.com/en/product/144223/Sparks-of-Light" target="_blank" rel="noopener noreferrer">"Sparks of Light"</a></p>
+</blockquote>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="комментарий">Комментарий<a href="https://your-docusaurus-site.example.com/blog/2020/02/03/druzhba-maxo-syodze#%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B9" class="hash-link" aria-label="Direct link to Комментарий" title="Direct link to Комментарий">​</a></h2>
+<p>Да, "обратиться в мертвеца" — это явно ерунда какая-то, но ничего умнее подобрать не смог.</p>]]></content:encoded>
+            <category>стихи</category>
+            <category>Sparks_of_Light</category>
+        </item>
+        <item>
+            <title><![CDATA[Доброе кофе]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/2020/01/31/dobroe-kofe</link>
+            <guid>https://your-docusaurus-site.example.com/blog/2020/01/31/dobroe-kofe</guid>
+            <pubDate>Fri, 31 Jan 2020 10:28:02 GMT</pubDate>
+            <description><![CDATA[Утро добрым не бывает,]]></description>
+            <content:encoded><![CDATA[<p>Утро добрым не бывает,<br>
+<!-- -->Кофе утром помогает:<br>
+<!-- -->Вмиг сонливость устранит,<br>
+<del>Хвост коту он сохранит</del><br>
+<!-- -->Сердце радостью вскружит.<br>
+<!-- -->☕<!-- -->☕<!-- -->☕</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="комментарий">Комментарий<a href="https://your-docusaurus-site.example.com/blog/2020/01/31/dobroe-kofe#%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B9" class="hash-link" aria-label="Direct link to Комментарий" title="Direct link to Комментарий">​</a></h2>
+<p>Да, куча глаголов, всё плохо, но и так сойдет.</p>]]></content:encoded>
+            <category>стихи</category>
+            <category>кофе</category>
+            <category>стихи_про_утро</category>
+        </item>
+        <item>
+            <title><![CDATA[Тяжело в кусении]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/2020/01/31/tyazhelo-v-kusenii</link>
+            <guid>https://your-docusaurus-site.example.com/blog/2020/01/31/tyazhelo-v-kusenii</guid>
+            <pubDate>Fri, 31 Jan 2020 10:00:00 GMT</pubDate>
+            <description><![CDATA[Мы кусали, мы кусали,]]></description>
+            <content:encoded><![CDATA[<p>Мы кусали, мы кусали,<br>
+<!-- -->Зубки напрочь подустали.<br>
+<!-- -->Скоро мы передохнем<br>
+<!-- -->И опять кусать начнем!<br>
+<em>Кусь-кусь-кусь</em></p>]]></content:encoded>
+            <category>стихи</category>
+            <category>крякен</category>
+            <category>кусь</category>
+            <category>used</category>
+        </item>
+        <item>
+            <title><![CDATA[Нетолстеющий волк]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/2020/01/31/netolsteyushhij-volk</link>
+            <guid>https://your-docusaurus-site.example.com/blog/2020/01/31/netolsteyushhij-volk</guid>
+            <pubDate>Fri, 31 Jan 2020 09:00:00 GMT</pubDate>
+            <description><![CDATA[Ты, пожалуйста, пойми:]]></description>
+            <content:encoded><![CDATA[<p>Ты, пожалуйста, пойми:<br>
+<!-- -->Сколько волка не корми,<br>
+<!-- -->Все равно он будет ладным,<br>
+<!-- -->А ты станешь необъятным!</p>
+<p>У него метаболизм —<br>
+<!-- -->Чудотворный механизм:<br>
+<!-- -->Вмиг рассеет он жирок,<br>
+<!-- -->Всё используется впрок!</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="контекст">Контекст<a href="https://your-docusaurus-site.example.com/blog/2020/01/31/netolsteyushhij-volk#%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82" class="hash-link" aria-label="Direct link to Контекст" title="Direct link to Контекст">​</a></h2>
+<p>Вдохновился фразой из интернетов:</p>
+<blockquote>
+<p>Сколько волка не корми, а он все равно будет стройным и красивым, ведь у него хороший обмен веществ, а у тебя нет!</p>
+</blockquote>]]></content:encoded>
+            <category>стихи</category>
+        </item>
+        <item>
+            <title><![CDATA[Сэтитский гусь]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/2020/01/27/setitskij-gus</link>
+            <guid>https://your-docusaurus-site.example.com/blog/2020/01/27/setitskij-gus</guid>
+            <pubDate>Mon, 27 Jan 2020 04:33:44 GMT</pubDate>
+            <description><![CDATA[И в горе, и в радости нежный твой кусь,]]></description>
+            <content:encoded><![CDATA[<p>И в горе, и в радости нежный твой кусь,<br>
+<!-- -->Навеки похитит порывистый гусь.<br>
+<!-- -->Его опасайся слащавых речей,<br>
+<!-- -->Иначе лишишься спокойных ночей.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="контекст">Контекст<a href="https://your-docusaurus-site.example.com/blog/2020/01/27/setitskij-gus#%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82" class="hash-link" aria-label="Direct link to Контекст" title="Direct link to Контекст">​</a></h2>
+<p>Описание одного славного вампира из VtM чатика, который приставал к сэтиточкам.</p>]]></content:encoded>
+            <category>сэтитский_гусь</category>
+            <category>стихи</category>
+            <category>vtm</category>
+            <category>vtm-чат</category>
+            <category>used</category>
+            <category>и_в_горе,_и_в_радости</category>
+        </item>
+        <item>
+            <title><![CDATA[Трудовой кошачий фронт]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/2020/01/04/trudovoj-koshachij-front</link>
+            <guid>https://your-docusaurus-site.example.com/blog/2020/01/04/trudovoj-koshachij-front</guid>
+            <pubDate>Sat, 04 Jan 2020 14:55:00 GMT</pubDate>
+            <description><![CDATA[Наступил час роковой!]]></description>
+            <content:encoded><![CDATA[<p>Наступил час роковой!<br>
+<!-- -->Запылал фронт трудовой!<br>
+<!-- -->Только дома кот остался,<br>
+<!-- -->Сладкой дреме предавался.</p>]]></content:encoded>
+            <category>стихи</category>
+            <category>used</category>
+        </item>
         <item>
             <title><![CDATA[Кот-вампир]]></title>
             <link>https://your-docusaurus-site.example.com/blog/2019/12/31/kot-vampir</link>
@@ -182,33 +359,6 @@
 <!-- -->Хотя глаз совсем не имело...</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="контекст">Контекст<a href="https://your-docusaurus-site.example.com/blog/2019/07/20/neizvestnaya-tropa#%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82" class="hash-link" aria-label="Direct link to Контекст" title="Direct link to Контекст">​</a></h2>
 <p>Вольный перевод какого-то стишка откуда-то из Мира тьмы. Плохо помню уже, к сожалению. Ценности никакой не имеет.</p>]]></content:encoded>
-            <category>стихи</category>
-        </item>
-        <item>
-            <title><![CDATA[Заклинанье]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/2019/06/25/zaklinane</link>
-            <guid>https://your-docusaurus-site.example.com/blog/2019/06/25/zaklinane</guid>
-            <pubDate>Tue, 25 Jun 2019 18:57:37 GMT</pubDate>
-            <description><![CDATA[Добавить сахарок и черепок,]]></description>
-            <content:encoded><![CDATA[<p>Добавить сахарок и черепок,<br>
-<!-- -->Щепотку перца и бурьяна сок,<br>
-<!-- -->Осколок зуба, ломтик туши —<br>
-<!-- -->Дракона зов заложит уши!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="контекст">Контекст<a href="https://your-docusaurus-site.example.com/blog/2019/06/25/zaklinane#%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82" class="hash-link" aria-label="Direct link to Контекст" title="Direct link to Контекст">​</a></h2>
-<p>Переделка стишка из какой-то интерактивной текстовой игры. Вот вообще не помню, что за игра там была такая. Если судить по стиху, то наверняка там была какая-то ведьма, которая варила зелье с вот таким вот заклинанием.</p>]]></content:encoded>
-            <category>стихи</category>
-            <category>ифня</category>
-        </item>
-        <item>
-            <title><![CDATA[Незадачливый поэт]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/2019/05/01/nezadachlivyj-poet</link>
-            <guid>https://your-docusaurus-site.example.com/blog/2019/05/01/nezadachlivyj-poet</guid>
-            <pubDate>Wed, 01 May 2019 16:43:39 GMT</pubDate>
-            <description><![CDATA[Метр от поэта в страхе разбежался,]]></description>
-            <content:encoded><![CDATA[<p>Метр от поэта в страхе разбежался,<br>
-<!-- -->Все рифмы поскакали кто куда,<br>
-<!-- -->И сколько б он поймать их не пытался,<br>
-<!-- -->Сбежали все без всякого следа.</p>]]></content:encoded>
             <category>стихи</category>
         </item>
     </channel>

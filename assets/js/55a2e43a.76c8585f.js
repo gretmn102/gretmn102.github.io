@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgretmn_102_github_io=self.webpackChunkgretmn_102_github_io||[]).push([[9078],{9256:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/\u0438-\u0432-\u0433\u043e\u0440\u0435-\u0438-\u0432-\u0440\u0430\u0434\u043e\u0441\u0442\u0438","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

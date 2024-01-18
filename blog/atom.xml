@@ -2,11 +2,228 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://your-docusaurus-site.example.com/blog</id>
     <title>My Site Blog</title>
-    <updated>2019-12-31T05:15:00.000Z</updated>
+    <updated>2020-08-06T02:46:03.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://your-docusaurus-site.example.com/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://your-docusaurus-site.example.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Зомби лайв меттерс]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/2020/08/06/zombi-lajv-metters</id>
+        <link href="https://your-docusaurus-site.example.com/blog/2020/08/06/zombi-lajv-metters"/>
+        <updated>2020-08-06T02:46:03.000Z</updated>
+        <summary type="html"><![CDATA[Зомби тоже жить хотят,]]></summary>
+        <content type="html"><![CDATA[<p>Зомби тоже жить хотят,<br>
+<!-- -->Маленьких растить зомбят.<br>
+<!-- -->На работу — по утрам,<br>
+<!-- -->Есть мозги по вечерам.</p>]]></content>
+        <author>
+            <name>Fering</name>
+            <uri>https://github.com/gretmn102</uri>
+        </author>
+        <category label="стихи" term="стихи"/>
+        <category label="зомби" term="зомби"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Нелегкая кошачья жизнь]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/2020/03/17/nelegkaya-koshachya-zhizn</id>
+        <link href="https://your-docusaurus-site.example.com/blog/2020/03/17/nelegkaya-koshachya-zhizn"/>
+        <updated>2020-03-16T22:19:28.000Z</updated>
+        <summary type="html"><![CDATA[Грустнота, печаль, тоска,]]></summary>
+        <content type="html"><![CDATA[<p>Грустнота, печаль, тоска,<br>
+<!-- -->Жизнь кошачья нелегка:<br>
+<!-- -->Рыбка в море уплыла,<br>
+<!-- -->Теплоту всю забрала.</p>
+<hr>
+<p>Рыбка в море уплыла,<br>
+<!-- -->Грусть, печаль, тоска<br>
+<!-- -->И с собою забрала<br>
+<!-- -->Торт из тайника.</p>]]></content>
+        <author>
+            <name>Fering</name>
+            <uri>https://github.com/gretmn102</uri>
+        </author>
+        <category label="стихи" term="стихи"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Предсонное дело]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/2020/03/10/predsonnoe-delo</id>
+        <link href="https://your-docusaurus-site.example.com/blog/2020/03/10/predsonnoe-delo"/>
+        <updated>2020-03-10T17:10:45.000Z</updated>
+        <summary type="html"><![CDATA["Поспать бы пойти", — пожелал он себе,]]></summary>
+        <content type="html"><![CDATA[<p>"Поспать бы пойти", — пожелал он себе,<br>
+<!-- -->Усталое тело качнулось в мольбе,<br>
+<!-- -->Но дело мелькнуло в размытой тени —<br>
+<!-- -->Лишь мысли о сне уцелели одни.</p>]]></content>
+        <author>
+            <name>Fering</name>
+            <uri>https://github.com/gretmn102</uri>
+        </author>
+        <category label="стихи" term="стихи"/>
+        <category label="стихи_в_ритме_вальса" term="стихи_в_ритме_вальса"/>
+        <category label="стихи_про_сон" term="стихи_про_сон"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Сотворение]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/2020/03/03/sotvorenie</id>
+        <link href="https://your-docusaurus-site.example.com/blog/2020/03/03/sotvorenie"/>
+        <updated>2020-03-03T18:59:15.000Z</updated>
+        <summary type="html"><![CDATA[Размах иссиня-чёрных крыл]]></summary>
+        <content type="html"><![CDATA[<p>Размах иссиня-чёрных крыл<br>
+<!-- -->Провозгласил начало новой жизни.<br>
+<!-- -->Создатель настежь дверь открыл,<br>
+<!-- -->Да выдались творения капризны.</p>
+<p>Каскад разнообразий<br>
+<!-- -->Заполнил белый свет,<br>
+<!-- -->И за волной фантазий<br>
+<!-- -->Последовал рассвет.</p>
+<p>С рассветом краски блёкли<br>
+<!-- -->Творений праотца,<br>
+<!-- -->И сними вмиг поблёкли<br>
+<!-- -->Прекрасные сердца.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="контекст">Контекст<a href="https://your-docusaurus-site.example.com/blog/2020/03/03/sotvorenie#%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82" class="hash-link" aria-label="Direct link to Контекст" title="Direct link to Контекст">​</a></h2>
+<p>Писалось так: две строчки пишет Лана, две строчки — я. Интересный опыт.</p>]]></content>
+        <author>
+            <name>Fering</name>
+            <uri>https://github.com/gretmn102</uri>
+        </author>
+        <category label="Лана" term="Лана"/>
+        <category label="стихи" term="стихи"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Дружба махо-сёдзе]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/2020/02/03/druzhba-maxo-syodze</id>
+        <link href="https://your-docusaurus-site.example.com/blog/2020/02/03/druzhba-maxo-syodze"/>
+        <updated>2020-02-03T11:58:05.000Z</updated>
+        <summary type="html"><![CDATA[Бьются наши в унисон сердца,]]></summary>
+        <content type="html"><![CDATA[<p>Бьются наши в унисон сердца,<br>
+<!-- -->Тонкой прядью спутаны мечты —<br>
+<!-- -->Если обратимся в мертвеца,<br>
+<!-- -->Мы разделим райские пласты.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="контекст">Контекст<a href="https://your-docusaurus-site.example.com/blog/2020/02/03/druzhba-maxo-syodze#%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82" class="hash-link" aria-label="Direct link to Контекст" title="Direct link to Контекст">​</a></h2>
+<blockquote>
+<p>Our hearts beat as one<br>
+<!-- -->When we die<br>
+<!-- -->Dreams linked by gossamer strands<br>
+<!-- -->We'll share a shady tree in heaven<br>
+<!-- -->— Из <a href="https://preview.drivethrurpg.com/en/product/144223/Sparks-of-Light" target="_blank" rel="noopener noreferrer">"Sparks of Light"</a></p>
+</blockquote>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="комментарий">Комментарий<a href="https://your-docusaurus-site.example.com/blog/2020/02/03/druzhba-maxo-syodze#%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B9" class="hash-link" aria-label="Direct link to Комментарий" title="Direct link to Комментарий">​</a></h2>
+<p>Да, "обратиться в мертвеца" — это явно ерунда какая-то, но ничего умнее подобрать не смог.</p>]]></content>
+        <author>
+            <name>Fering</name>
+            <uri>https://github.com/gretmn102</uri>
+        </author>
+        <category label="стихи" term="стихи"/>
+        <category label="Sparks_of_Light" term="Sparks_of_Light"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Доброе кофе]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/2020/01/31/dobroe-kofe</id>
+        <link href="https://your-docusaurus-site.example.com/blog/2020/01/31/dobroe-kofe"/>
+        <updated>2020-01-31T10:28:02.000Z</updated>
+        <summary type="html"><![CDATA[Утро добрым не бывает,]]></summary>
+        <content type="html"><![CDATA[<p>Утро добрым не бывает,<br>
+<!-- -->Кофе утром помогает:<br>
+<!-- -->Вмиг сонливость устранит,<br>
+<del>Хвост коту он сохранит</del><br>
+<!-- -->Сердце радостью вскружит.<br>
+<!-- -->☕<!-- -->☕<!-- -->☕</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="комментарий">Комментарий<a href="https://your-docusaurus-site.example.com/blog/2020/01/31/dobroe-kofe#%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B9" class="hash-link" aria-label="Direct link to Комментарий" title="Direct link to Комментарий">​</a></h2>
+<p>Да, куча глаголов, всё плохо, но и так сойдет.</p>]]></content>
+        <author>
+            <name>Fering</name>
+            <uri>https://github.com/gretmn102</uri>
+        </author>
+        <category label="стихи" term="стихи"/>
+        <category label="кофе" term="кофе"/>
+        <category label="стихи_про_утро" term="стихи_про_утро"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Тяжело в кусении]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/2020/01/31/tyazhelo-v-kusenii</id>
+        <link href="https://your-docusaurus-site.example.com/blog/2020/01/31/tyazhelo-v-kusenii"/>
+        <updated>2020-01-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Мы кусали, мы кусали,]]></summary>
+        <content type="html"><![CDATA[<p>Мы кусали, мы кусали,<br>
+<!-- -->Зубки напрочь подустали.<br>
+<!-- -->Скоро мы передохнем<br>
+<!-- -->И опять кусать начнем!<br>
+<em>Кусь-кусь-кусь</em></p>]]></content>
+        <author>
+            <name>Fering</name>
+            <uri>https://github.com/gretmn102</uri>
+        </author>
+        <category label="стихи" term="стихи"/>
+        <category label="крякен" term="крякен"/>
+        <category label="кусь" term="кусь"/>
+        <category label="used" term="used"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Нетолстеющий волк]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/2020/01/31/netolsteyushhij-volk</id>
+        <link href="https://your-docusaurus-site.example.com/blog/2020/01/31/netolsteyushhij-volk"/>
+        <updated>2020-01-31T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ты, пожалуйста, пойми:]]></summary>
+        <content type="html"><![CDATA[<p>Ты, пожалуйста, пойми:<br>
+<!-- -->Сколько волка не корми,<br>
+<!-- -->Все равно он будет ладным,<br>
+<!-- -->А ты станешь необъятным!</p>
+<p>У него метаболизм —<br>
+<!-- -->Чудотворный механизм:<br>
+<!-- -->Вмиг рассеет он жирок,<br>
+<!-- -->Всё используется впрок!</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="контекст">Контекст<a href="https://your-docusaurus-site.example.com/blog/2020/01/31/netolsteyushhij-volk#%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82" class="hash-link" aria-label="Direct link to Контекст" title="Direct link to Контекст">​</a></h2>
+<p>Вдохновился фразой из интернетов:</p>
+<blockquote>
+<p>Сколько волка не корми, а он все равно будет стройным и красивым, ведь у него хороший обмен веществ, а у тебя нет!</p>
+</blockquote>]]></content>
+        <author>
+            <name>Fering</name>
+            <uri>https://github.com/gretmn102</uri>
+        </author>
+        <category label="стихи" term="стихи"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Сэтитский гусь]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/2020/01/27/setitskij-gus</id>
+        <link href="https://your-docusaurus-site.example.com/blog/2020/01/27/setitskij-gus"/>
+        <updated>2020-01-27T04:33:44.000Z</updated>
+        <summary type="html"><![CDATA[И в горе, и в радости нежный твой кусь,]]></summary>
+        <content type="html"><![CDATA[<p>И в горе, и в радости нежный твой кусь,<br>
+<!-- -->Навеки похитит порывистый гусь.<br>
+<!-- -->Его опасайся слащавых речей,<br>
+<!-- -->Иначе лишишься спокойных ночей.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="контекст">Контекст<a href="https://your-docusaurus-site.example.com/blog/2020/01/27/setitskij-gus#%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82" class="hash-link" aria-label="Direct link to Контекст" title="Direct link to Контекст">​</a></h2>
+<p>Описание одного славного вампира из VtM чатика, который приставал к сэтиточкам.</p>]]></content>
+        <author>
+            <name>Fering</name>
+            <uri>https://github.com/gretmn102</uri>
+        </author>
+        <category label="сэтитский_гусь" term="сэтитский_гусь"/>
+        <category label="стихи" term="стихи"/>
+        <category label="vtm" term="vtm"/>
+        <category label="vtm-чат" term="vtm-чат"/>
+        <category label="used" term="used"/>
+        <category label="и_в_горе,_и_в_радости" term="и_в_горе,_и_в_радости"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Трудовой кошачий фронт]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/2020/01/04/trudovoj-koshachij-front</id>
+        <link href="https://your-docusaurus-site.example.com/blog/2020/01/04/trudovoj-koshachij-front"/>
+        <updated>2020-01-04T14:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Наступил час роковой!]]></summary>
+        <content type="html"><![CDATA[<p>Наступил час роковой!<br>
+<!-- -->Запылал фронт трудовой!<br>
+<!-- -->Только дома кот остался,<br>
+<!-- -->Сладкой дреме предавался.</p>]]></content>
+        <author>
+            <name>Fering</name>
+            <uri>https://github.com/gretmn102</uri>
+        </author>
+        <category label="стихи" term="стихи"/>
+        <category label="used" term="used"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Кот-вампир]]></title>
         <id>https://your-docusaurus-site.example.com/blog/2019/12/31/kot-vampir</id>
@@ -217,41 +434,6 @@
 <!-- -->Хотя глаз совсем не имело...</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="контекст">Контекст<a href="https://your-docusaurus-site.example.com/blog/2019/07/20/neizvestnaya-tropa#%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82" class="hash-link" aria-label="Direct link to Контекст" title="Direct link to Контекст">​</a></h2>
 <p>Вольный перевод какого-то стишка откуда-то из Мира тьмы. Плохо помню уже, к сожалению. Ценности никакой не имеет.</p>]]></content>
-        <author>
-            <name>Fering</name>
-            <uri>https://github.com/gretmn102</uri>
-        </author>
-        <category label="стихи" term="стихи"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Заклинанье]]></title>
-        <id>https://your-docusaurus-site.example.com/blog/2019/06/25/zaklinane</id>
-        <link href="https://your-docusaurus-site.example.com/blog/2019/06/25/zaklinane"/>
-        <updated>2019-06-25T18:57:37.000Z</updated>
-        <summary type="html"><![CDATA[Добавить сахарок и черепок,]]></summary>
-        <content type="html"><![CDATA[<p>Добавить сахарок и черепок,<br>
-<!-- -->Щепотку перца и бурьяна сок,<br>
-<!-- -->Осколок зуба, ломтик туши —<br>
-<!-- -->Дракона зов заложит уши!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="контекст">Контекст<a href="https://your-docusaurus-site.example.com/blog/2019/06/25/zaklinane#%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82" class="hash-link" aria-label="Direct link to Контекст" title="Direct link to Контекст">​</a></h2>
-<p>Переделка стишка из какой-то интерактивной текстовой игры. Вот вообще не помню, что за игра там была такая. Если судить по стиху, то наверняка там была какая-то ведьма, которая варила зелье с вот таким вот заклинанием.</p>]]></content>
-        <author>
-            <name>Fering</name>
-            <uri>https://github.com/gretmn102</uri>
-        </author>
-        <category label="стихи" term="стихи"/>
-        <category label="ифня" term="ифня"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Незадачливый поэт]]></title>
-        <id>https://your-docusaurus-site.example.com/blog/2019/05/01/nezadachlivyj-poet</id>
-        <link href="https://your-docusaurus-site.example.com/blog/2019/05/01/nezadachlivyj-poet"/>
-        <updated>2019-05-01T16:43:39.000Z</updated>
-        <summary type="html"><![CDATA[Метр от поэта в страхе разбежался,]]></summary>
-        <content type="html"><![CDATA[<p>Метр от поэта в страхе разбежался,<br>
-<!-- -->Все рифмы поскакали кто куда,<br>
-<!-- -->И сколько б он поймать их не пытался,<br>
-<!-- -->Сбежали все без всякого следа.</p>]]></content>
         <author>
             <name>Fering</name>
             <uri>https://github.com/gretmn102</uri>

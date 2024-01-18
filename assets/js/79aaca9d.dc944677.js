@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgretmn_102_github_io=self.webpackChunkgretmn_102_github_io||[]).push([[7679],{6326:s=>{s.exports=JSON.parse('{"label":"Sparks_of_Light","permalink":"/blog/tags/sparks-of-light","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
