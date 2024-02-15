@@ -2,11 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://your-docusaurus-site.example.com/blog</id>
     <title>My Site Blog</title>
-    <updated>2020-08-06T02:46:03.000Z</updated>
+    <updated>2021-01-08T02:10:37.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://your-docusaurus-site.example.com/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://your-docusaurus-site.example.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[О горе мне!]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/2021/01/08/o-gore-mne</id>
+        <link href="https://your-docusaurus-site.example.com/blog/2021/01/08/o-gore-mne"/>
+        <updated>2021-01-08T02:10:37.000Z</updated>
+        <summary type="html"><![CDATA[О горе мне! За что всё это?!]]></summary>
+        <content type="html"><![CDATA[<p>О горе мне! За что всё это?!<br>
+<!-- -->Мне в жизни не видать просвета!<br>
+<!-- -->Страданиям конца моим не видно,<br>
+<!-- -->До чего же сердцу моему обидно!</p>
+<p>Вокруг меня — сплошные идиоты!<br>
+<!-- -->Достали, право, эти обормоты!<br>
+<!-- -->Всё общество хотят с колен поднять,<br>
+<!-- -->Но даже денег мне не могут дать!</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="контекст">Контекст<a href="https://your-docusaurus-site.example.com/blog/2021/01/08/o-gore-mne#%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82" class="hash-link" aria-label="Direct link to Контекст" title="Direct link to Контекст">​</a></h2>
+<p>Изначально писалось Нетленному на его очередное нытье, но этот оболтус, как обычно, стих не оценил. Зато первое четверостишие вышло настолько душераздирающим (особенно если выразительно читать), что я его пихаю вообще повсюду.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="использование">Использование<a href="https://your-docusaurus-site.example.com/blog/2021/01/08/o-gore-mne#%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" class="hash-link" aria-label="Direct link to Использование" title="Direct link to Использование">​</a></h2>
+<ul>
+<li>
+<p>Лучше всего раскрывается на Адалинде, известной королеве драмы: "О горе мне, ах!", — и падает картинно на кровать</p>
+<p><img loading="lazy" src="https://cdn.discordapp.com/attachments/859253126878724126/1200158428694315048/DRAMAQUEEN-3326875040.jpg" alt="" class="img_ev3q"></p>
+</li>
+<li>
+<p>Использовал в "Поручении Её Носочества"</p>
+</li>
+</ul>]]></content>
+        <author>
+            <name>Fering</name>
+            <uri>https://github.com/gretmn102</uri>
+        </author>
+        <category label="Нетленный" term="Нетленный"/>
+        <category label="стихи" term="стихи"/>
+        <category label="used" term="used"/>
+        <category label="Адалинда" term="Адалинда"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Влюбленный в Акулыч гном]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/2020/12/03/vlyublennyj-v-akulych-gnom</id>
+        <link href="https://your-docusaurus-site.example.com/blog/2020/12/03/vlyublennyj-v-akulych-gnom"/>
+        <updated>2020-12-03T05:05:13.000Z</updated>
+        <summary type="html"><![CDATA[Всё утро металась Акулыч по залу:]]></summary>
+        <content type="html"><![CDATA[<p>Всё утро металась Акулыч по залу:<br>
+<!-- -->Ее подчиненный устроил бахва́лу.<br>
+<!-- -->Строптивца пыталась она проучить<br>
+<!-- -->И стадо котов на него натравить.</p>
+<p>Коты окружали мятежного гнома,<br>
+<!-- -->Шагала Акулыч, вся гневом ведома.<br>
+<!-- -->Попятился гном и вину всю признал,<br>
+<!-- -->Полез обниматься и милой назвал.</p>
+<p>Акулыч с испугу отпрянула прочь:<br>
+<!-- -->Влюбленному гному ничем не помочь!<br>
+<!-- -->Что дальше-то будет — узнать бы ответ.<br>
+<!-- -->"Открытый финал!" — возвестил всем фальцет.</p>]]></content>
+        <author>
+            <name>Fering</name>
+            <uri>https://github.com/gretmn102</uri>
+        </author>
+        <category label="стихи" term="стихи"/>
+        <category label="used" term="used"/>
+        <category label="акулыч" term="акулыч"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Зомби лайв меттерс]]></title>
         <id>https://your-docusaurus-site.example.com/blog/2020/08/06/zombi-lajv-metters</id>
@@ -395,49 +456,6 @@
             <uri>https://github.com/gretmn102</uri>
         </author>
         <category label="Нетленный" term="Нетленный"/>
-        <category label="стихи" term="стихи"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Синевласая плясунья]]></title>
-        <id>https://your-docusaurus-site.example.com/blog/2019/10/04/sinevlasaya-plyasunya</id>
-        <link href="https://your-docusaurus-site.example.com/blog/2019/10/04/sinevlasaya-plyasunya"/>
-        <updated>2019-10-04T14:11:42.000Z</updated>
-        <summary type="html"><![CDATA[Мое лицо покрылось краской,]]></summary>
-        <content type="html"><![CDATA[<p>Мое лицо покрылось краской,<br>
-<!-- -->Твои волосья — синевой.<br>
-<!-- -->Ответь же мне прекрасной пляской:<br>
-<!-- -->Залюбовался я тобой.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="вдохновение">Вдохновение<a href="https://your-docusaurus-site.example.com/blog/2019/10/04/sinevlasaya-plyasunya#%D0%B2%D0%B4%D0%BE%D1%85%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B5" class="hash-link" aria-label="Direct link to Вдохновение" title="Direct link to Вдохновение">​</a></h2>
-<blockquote>
-<p>My face blushes red,<br>
-<!-- -->your gorgeous hair's blue,<br>
-<!-- -->come find me to dance,<br>
-<!-- -->I'll have my eye on you<br>
-<!-- -->— из какой-то серии Camp Camp</p>
-</blockquote>]]></content>
-        <author>
-            <name>Fering</name>
-            <uri>https://github.com/gretmn102</uri>
-        </author>
-        <category label="стихи" term="стихи"/>
-        <category label="camp_camp" term="camp_camp"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Неизвестная тропа]]></title>
-        <id>https://your-docusaurus-site.example.com/blog/2019/07/20/neizvestnaya-tropa</id>
-        <link href="https://your-docusaurus-site.example.com/blog/2019/07/20/neizvestnaya-tropa"/>
-        <updated>2019-07-20T06:11:21.000Z</updated>
-        <summary type="html"><![CDATA[Вела меня дорога, всё вела]]></summary>
-        <content type="html"><![CDATA[<p>Вела меня дорога, всё вела<br>
-<!-- -->Да наконец куда-то привела.<br>
-<!-- -->Там древо на меня смотрело,<br>
-<!-- -->Хотя глаз совсем не имело...</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="контекст">Контекст<a href="https://your-docusaurus-site.example.com/blog/2019/07/20/neizvestnaya-tropa#%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82" class="hash-link" aria-label="Direct link to Контекст" title="Direct link to Контекст">​</a></h2>
-<p>Вольный перевод какого-то стишка откуда-то из Мира тьмы. Плохо помню уже, к сожалению. Ценности никакой не имеет.</p>]]></content>
-        <author>
-            <name>Fering</name>
-            <uri>https://github.com/gretmn102</uri>
-        </author>
         <category label="стихи" term="стихи"/>
     </entry>
 </feed>
