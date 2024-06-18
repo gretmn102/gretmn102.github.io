@@ -10,21 +10,34 @@ import styles from './index.module.css';
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <Heading as="h1" className="hero__title">
-          {siteConfig.title}
-        </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
+    <div className={styles.card}>
+      <div className={styles['card__avatar-container']}>
+        <img className={styles['avatar']} loading="lazy" srcSet="img/agent.png" />
+      </div>
+      <div className={styles['card__content']}>
+        <div className={styles['content__header']}>
+          <div className={styles['header__main']}>{siteConfig.title}</div>
+          <div className={styles['header__tagline']}>{siteConfig.tagline}</div>
+        </div>
+        <div className={styles['content__description']}>
+          Любитель-погроммист, безызвестный поэт, горе-сценарист, разработчик простых игр и немного художник.
+        </div>
+        <div className={styles['content__footer']}>
           <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            className={styles['icon-container']}
+            to={siteConfig.customFields.githubUrl}
+          >
+            <img className={styles['github-icon']} src="img/github-icon.svg" />
+          </Link>
+          <Link
+            className={styles['icon-container']}
+            to={siteConfig.customFields.discordInviteUrl}
+          >
+            <img className={styles['discord-icon']} src="img/discord-icon.svg" />
           </Link>
         </div>
       </div>
-    </header>
+    </div>
   );
 }
 
@@ -32,9 +45,12 @@ export default function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
-      <HomepageHeader />
+      title={siteConfig.title}
+      description="Description will go into a meta tag in <head />"
+    >
+      <div className={styles['card-wrapper']}>
+        <HomepageHeader />
+      </div>
       <main>
         <HomepageFeatures />
       </main>

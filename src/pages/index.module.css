@@ -21,3 +21,81 @@
   align-items: center;
   justify-content: center;
 }
+
+.card-wrapper {
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  max-width: 325px;
+  border-radius: 15px;
+  -webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.45);
+  -moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.45);
+  box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.45);
+  background-color: #fff;
+  padding: 15px;
+  font: 400 12px Roboto, sans-serif;
+  box-sizing: initial;
+
+  display: flex;
+  gap: 5px;
+}
+
+.card__avatar-container {
+  display: flex;
+  align-items: center;
+}
+
+.avatar {
+  width: 84px;
+  height: 116px;
+  max-width: initial;
+}
+
+.card__content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.header__main {
+  color: #000;
+  text-align: center;
+  font-size: 24px;
+}
+
+.header__tagline {
+  color: #000;
+  text-align: center;
+  font-size: 10px;
+}
+
+.content__description {
+  color: #000;
+  text-align: center;
+}
+
+.content__footer {
+  justify-content: center;
+  display: flex;
+  gap: 10px;
+}
+
+.icon-container {
+  height: 24px;
+}
+
+.github-icon {
+  width: auto;
+  height: 100%;
+}
+
+.discord-icon {
+  width: auto;
+  height: 100%;
+}

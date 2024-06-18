@@ -3,13 +3,22 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 import remarkBreaks from 'remark-breaks';
 
+const discordInviteUrl = 'https://discord.gg/dCMuaGJktf'
+const githubUrl = 'https://github.com/gretmn102'
+
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Агент Лапкин',
+  tagline: 'Схватиться за всё, не успеть ничего',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
+
+  customFields: {
+    discordInviteUrl: discordInviteUrl,
+    githubUrl: githubUrl,
+  },
+
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -61,10 +70,10 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'Агент Лапкин',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/agent.png',
       },
       items: [
         {
