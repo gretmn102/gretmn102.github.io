@@ -84,7 +84,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/gretmn102/gretmn102.github.io',
           label: 'GitHub',
           position: 'right',
         },
@@ -106,12 +106,8 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: discordInviteUrl,
             },
             {
               label: 'Twitter',
@@ -128,7 +124,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/gretmn102/gretmn102.github.io',
             },
           ],
         },
