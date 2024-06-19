@@ -47,15 +47,36 @@
   gap: 5px;
 }
 
+@media only screen and (max-width: 400px) {
+  .card {
+    max-width: 190px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+}
+
 .card__avatar-container {
   display: flex;
   align-items: center;
+}
+
+@media only screen and (max-width: 400px) {
+  .card__avatar-container {
+    display: none;
+  }
 }
 
 .avatar {
   width: 84px;
   height: 116px;
   max-width: initial;
+}
+
+@media only screen and (max-width: 400px) {
+  .avatar {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+  }
 }
 
 .card__content {
@@ -75,6 +96,17 @@
   color: #000;
   text-align: center;
   font-size: 10px;
+}
+
+.content__avatar {
+  display: none;
+}
+
+@media only screen and (max-width: 400px) {
+  .content__avatar {
+    display: flex;
+    justify-content: center;
+  }
 }
 
 .content__description {

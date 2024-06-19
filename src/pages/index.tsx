@@ -7,17 +7,26 @@ import Heading from '@theme/Heading';
 
 import styles from './index.module.css';
 
+function Avatar() {
+  return (
+    <img className={styles['avatar']} loading="lazy" srcSet="img/agent.png" />
+  );
+}
+
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <div className={styles.card}>
       <div className={styles['card__avatar-container']}>
-        <img className={styles['avatar']} loading="lazy" srcSet="img/agent.png" />
+        {Avatar()}
       </div>
       <div className={styles['card__content']}>
         <div className={styles['content__header']}>
           <div className={styles['header__main']}>{siteConfig.title}</div>
           <div className={styles['header__tagline']}>{siteConfig.tagline}</div>
+        </div>
+        <div className={styles['content__avatar']}>
+          {Avatar()}
         </div>
         <div className={styles['content__description']}>
           Любитель-погроммист, безызвестный поэт, горе-сценарист, разработчик простых игр и немного художник.
