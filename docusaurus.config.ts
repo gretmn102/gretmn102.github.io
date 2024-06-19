@@ -74,6 +74,7 @@ const config: Config = {
       logo: {
         alt: 'My Site Logo',
         src: 'img/agent.png',
+        srcDark: 'img/agent-dark.png',
       },
       items: [
         {

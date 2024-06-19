@@ -38,7 +38,6 @@
   -webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.45);
   -moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.45);
   box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.45);
-  background-color: #fff;
   padding: 15px;
   font: 400 12px Roboto, sans-serif;
   box-sizing: initial;
@@ -67,8 +66,8 @@
 }
 
 .avatar {
-  width: 84px;
-  height: 116px;
+  width: auto;
+  height: auto;
   max-width: initial;
 }
 
@@ -87,13 +86,11 @@
 }
 
 .header__main {
-  color: #000;
   text-align: center;
   font-size: 24px;
 }
 
 .header__tagline {
-  color: #000;
   text-align: center;
   font-size: 10px;
 }
@@ -110,7 +107,6 @@
 }
 
 .content__description {
-  color: #000;
   text-align: center;
 }
 
@@ -127,9 +123,11 @@
 .github-icon {
   width: auto;
   height: 100%;
+  fill: var(--ifm-font-color-base);
 }
 
 .discord-icon {
   width: auto;
   height: 100%;
+  fill: var(--ifm-font-color-base);
 }

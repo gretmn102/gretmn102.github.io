@@ -3,13 +3,43 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import { useColorMode } from '@docusaurus/theme-common';
 import Heading from '@theme/Heading';
 
 import styles from './index.module.css';
 
 function Avatar() {
+  const { colorMode } = useColorMode();
   return (
-    <img className={styles['avatar']} loading="lazy" srcSet="img/agent.png" />
+    <img
+      className={styles['avatar']}
+      loading="lazy"
+      srcSet={colorMode === 'dark' ? 'img/agent-dark.png' : 'img/agent.png'}
+    />
+  );
+}
+
+function DiscordIcon() {
+  const path = 'img/discord-icon.svg#discord-icon'
+  return (
+    <svg
+      className={styles['discord-icon']}
+      viewBox='0 0 22.279521 17.139999'
+    >
+      <use xlinkHref={path} href={path} />
+    </svg>
+  );
+}
+
+function GithubIcon() {
+  const path = 'img/github-icon.svg#github-icon'
+  return (
+    <svg
+      className={styles['github-icon']}
+      viewBox='0 0 16 16'
+    >
+      <use xlinkHref={path} href={path} />
+    </svg>
   );
 }
 
@@ -36,13 +66,13 @@ function HomepageHeader() {
             className={styles['icon-container']}
             to={siteConfig.customFields.githubUrl}
           >
-            <img className={styles['github-icon']} src="img/github-icon.svg" />
+            {GithubIcon()}
           </Link>
           <Link
             className={styles['icon-container']}
             to={siteConfig.customFields.discordInviteUrl}
           >
-            <img className={styles['discord-icon']} src="img/discord-icon.svg" />
+            {DiscordIcon()}
           </Link>
         </div>
       </div>
