@@ -23,6 +23,8 @@
 }
 
 .card-wrapper {
+  position: relative;
+  top: -60px;
   height: 100vh;
 
   display: flex;
