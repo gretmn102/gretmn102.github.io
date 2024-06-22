@@ -126,8 +126,16 @@
   fill: var(--ifm-font-color-base);
 }
 
+.github-icon:hover {
+  fill: var(--ifm-color-primary);
+}
+
 .discord-icon {
   width: auto;
   height: 100%;
   fill: var(--ifm-font-color-base);
+}
+
+.discord-icon:hover {
+  fill: var(--ifm-color-primary);
 }
