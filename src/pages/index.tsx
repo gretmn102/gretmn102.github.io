@@ -85,7 +85,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={siteConfig.title}
-      description="Description will go into a meta tag in <head />"
+      description="Сайт одного древнего компьютера с лапками."
     >
       <div className={styles['card-wrapper']}>
         <HomepageHeader />
