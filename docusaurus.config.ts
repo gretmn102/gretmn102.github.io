@@ -12,7 +12,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://gretmn102.github.io',
 
   customFields: {
     discordInviteUrl: discordInviteUrl,
