@@ -1,0 +1,107 @@
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <div class="card">
+    <div class="card__avatar-container">
+      <img class="avatar" loading="lazy" srcset="img/agent.png" />
+    </div>
+    <div class="card__content">
+      <div class="content__header">
+        <div class="header__main">Агент Лапкин</div>
+        <div class="header__tagline">Схватиться за всё, не успеть ничего</div>
+      </div>
+      <div class="content__description">
+        Любитель-погроммист, безызвестный поэт, горе-сценарист, разработчик
+        простых игр и немного художник.
+      </div>
+      <div class="content__footer">
+        <div class="icon-container">
+          <img class="github-icon" src="img/github-icon.svg" />
+        </div>
+        <div class="icon-container">
+          <img class="discord-icon" src="img/discord-icon.svg" />
+        </div>
+      </div>
+    </div>
+  </div>
+  <style>
+    .card {
+      max-width: 325px;
+      border-radius: 15px;
+      -webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.45);
+      -moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.45);
+      box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.45);
+      background-color: #fff;
+      padding: 15px;
+      font: 400 12px Roboto, sans-serif;
+
+      display: flex;
+      gap: 5px;
+    }
+
+    .card__avatar-container {
+      display: flex;
+      align-items: center;
+    }
+
+    .avatar {
+      width: 84px;
+      height: 116px;
+      -webkit-transform: scaleX(-1);
+      transform: scaleX(-1);
+    }
+
+    .card__content {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      gap: 10px;
+    }
+
+    .header__main {
+      color: #000;
+      text-align: center;
+      font-size: 24px;
+    }
+
+    .header__tagline {
+      color: #000;
+      text-align: center;
+      font-size: 10px;
+    }
+
+    .content__description {
+      color: #000;
+      text-align: center;
+    }
+
+    .content__footer {
+      justify-content: center;
+      display: flex;
+      gap: 10px;
+    }
+
+    .icon-container {
+      height: 24px;
+    }
+
+    .github-icon {
+      width: auto;
+      height: 100%;
+    }
+
+    .discord-icon {
+      width: auto;
+      height: 100%;
+    }
+  </style>
+</body>
+
+</html>
