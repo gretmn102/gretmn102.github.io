@@ -6,11 +6,14 @@ tags:
   - interactive fiction
   - qsp
   - ифня
-  - КуспКомпо2024
+  - QSP-COMPO
+  - QSP-COMPO 2024
 ---
 # Завод
 
-[Завод]() — простенькая, незамороченная игрулька в жанре interactive fiction, написанная на конкурс Кусп Компо 2024.
+Завод — простенькая, незамороченная игрулька в жанре interactive fiction, написанная на конкурс [QSP-COMPO 2024](https://qsp.org/index.php?option=com_agora&task=topic&id=1336&Itemid=57).
+
+Скачать ее можно из [архива](https://drive.google.com/drive/folders/1fDuxsZ6do0BFyuyIu6Tv2KmQi8Q4r0Te) (да, организация отвратительная — мучайтесь, чтобы поиграть!)
 
 ## Достоинства
 
