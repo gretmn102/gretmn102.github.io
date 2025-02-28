@@ -8,17 +8,39 @@ authors:
 ---
 # Тонкости публикации расширений в VS Code Marketplace
 
-Во время публикации расширения в [VS Code Marketplace](https://marketplace.visualstudio.com/vscode) можно столкнуться с рядом не очевидных (на мой взгляд) трудностей. С ними и будем разбираться.
+Во время публикаций расширений в [VS Code Marketplace](https://marketplace.visualstudio.com/vscode) столкнулся с рядом неочевидных (на мой взгляд) трудностей. О них я и расскажу.
 
 <!-- truncate -->
 
-## Совпадение `name` и названия расширения в Marketplace
+## Публикатор и название расширения захардкодено в `package.json`
 
-Значение `name` в `package.json` должно совпадать с названием расширения, указанным в [VS Code Marketplace](https://marketplace.visualstudio.com/vscode), иначе случится такое:
+Если нажать на сайте "Public", то вылезет модальное окно с одним единственным полем ввода — приемом файла расширения. После загрузки файла расширения, сервер считывает значения полей `publisher` и `name` с `package.json` и публикует расширение на сайте, всё.
 
-![Upload Error: The extension name supplied in the path 'qsp-official' must match the name supplied in the extension data 'qsp'.](./upload-error.png)
-*В `name` указано `qsp`, а должно быть `qsp-official`.*
+С одной стороны, это удобно (наверное), с другой стороны — возникает следующий ряд вопросов:
+
+* А если мне захочется опубликовать это расширение под другим публикатором?
+* А если походу развития расширения выяснилось, что ему подойдет другое название?
+
+И, видимо, разработчики системы отвечали так: "не захочется" и "никак".
+
+## Публикация под другим публикатором
+
+<!-- Я знаю, в это трудно поверить, но значение `name` в `package.json` определяет название расширения. А `publisher` определяет публикатора, да. -->
+
+<!-- Обновить расширение -->
+
+<!-- По этой паре и публикуется расширение, после чего формируется ссылка: -->
+<!--
+```bash
+"https://marketplace.visualstudio.com/items?itemName=$publisher.$name"
+```
+ -->
 
 ## Переименовывание расширения в Marketplace
 
-Его переименовать невозможно, даже не надейтесь. Вот это один раз заливаете расширение через "New Extension" -> "Visual Studio Code", сервер считывает `name` в `pack
+Его переименовать невозможно, даже не надейтесь. Вот это один раз заливаете расширение через "New Extension" -> "Visual Studio Code", сервер считывает `name` в `package.json`
+
+должно совпадать с названием расширения, указанным в [VS Code Marketplace](https://marketplace.visualstudio.com/vscode), иначе случится такое:
+
+![Upload Error: The extension name supplied in the path 'qsp-official' must match the name supplied in the extension data 'qsp'.](./upload-error.png)
+*В `name` указано `qsp`, а должно быть `qsp-official`.*
