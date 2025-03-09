@@ -29,7 +29,7 @@ tags:
 
 Модуль `counter.py`, который содержит:
 
-```js
+```python
 state = 0
 
 
