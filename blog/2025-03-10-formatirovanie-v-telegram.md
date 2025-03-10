@@ -13,7 +13,7 @@ tags:
 | `~~зачеркнутый~~`            | ~~зачеркнутый~~ |
 | <code>\`inline code\`</code> | `inline code`   |
 | <code>\|\|спойлер\|\|</code> | спойлер         |
-| <pre>\`\`\`js<br>console.log("Hello World!");<br>\`\`\`</pre> | <pre><code class="language-js">console.log("Hello World!");</code></pre> |
+| <pre>\`\`\`js<br />console.log("Hello World!");<br />\`\`\`</pre> | <pre><code class="language-js">console.log("Hello World!");</code></pre> |
 
 ## Источники
 
