@@ -5,6 +5,7 @@ import remarkBreaks from 'remark-breaks';
 
 const discordInviteUrl = 'https://discord.gg/dCMuaGJktf'
 const githubUrl = 'https://github.com/gretmn102'
+const youtubeUrl = 'https://www.youtube.com/@agentlapki'
 
 const config: Config = {
   title: 'Агент Лапкин',
@@ -17,6 +18,7 @@ const config: Config = {
   customFields: {
     discordInviteUrl: discordInviteUrl,
     githubUrl: githubUrl,
+    youtubeUrl: youtubeUrl,
   },
 
   // Set the /<baseUrl>/ pathname under which your site is served
@@ -87,6 +89,15 @@ const config: Config = {
             {
               label: 'Discord',
               href: discordInviteUrl,
+            },
+          ],
+        },
+        {
+          title: 'Youtube Channel',
+          items: [
+            {
+              label: 'Youtube',
+              href: youtubeUrl,
             },
           ],
         },
