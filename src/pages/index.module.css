@@ -139,3 +139,13 @@
 .discord-icon:hover {
   fill: var(--ifm-color-primary);
 }
+
+.youtube-icon {
+  width: auto;
+  height: 100%;
+  fill: var(--ifm-font-color-base);
+}
+
+.youtube-icon:hover {
+  fill: var(--ifm-color-primary);
+}

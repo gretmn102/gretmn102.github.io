@@ -43,6 +43,18 @@ function GithubIcon() {
   );
 }
 
+function YoutubeIcon() {
+  const path = 'img/youtube-icon.svg#root'
+  return (
+    <svg
+      className={styles['youtube-icon']}
+      viewBox='0 0 43.101562 32'
+    >
+      <use xlinkHref={path} href={path} />
+    </svg>
+  );
+}
+
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
@@ -73,6 +85,12 @@ function HomepageHeader() {
             to={siteConfig.customFields.discordInviteUrl}
           >
             {DiscordIcon()}
+          </Link>
+          <Link
+            className={styles['icon-container']}
+            to={siteConfig.customFields.youtubeUrl}
+          >
+            {YoutubeIcon()}
           </Link>
         </div>
       </div>
