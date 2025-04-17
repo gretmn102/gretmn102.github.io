@@ -44,3 +44,90 @@ function clock:disable_interact() {
   -- todo
 }
 ```
+
+```lua
+---@class TomatoModel
+---@field rotted boolean
+local tomato_model = {}
+tomato_model.__index = tomato_model
+
+function tomato_model:new()
+  ---@type TomatoModel
+  local instance = {
+    rotted = false,
+  }
+  return setmetatable(instance, self)
+end
+
+function tomato_model:rot()
+  self.rotted = true
+end
+
+room {
+  nam = "main",
+  disp = "Главная",
+}:with {
+  obj {
+    nam = "помидор",
+    disp = "Помидор",
+    state = tomato_model:new(),
+    dsc = "На полу валяется {помидор}.",
+    act = function (this)
+      ---@type TomatoModel
+      local model = this.state
+      if not model.rotted then
+        pn "Хороший помидор."
+        model:rot()
+      else
+        pn "Гнилой помидор, однако."
+      end
+    end
+  }
+}
+```
+
+Если нажать на "помидор", а потом попытаться сохраниться, то выскочит вот это:
+
+> Во время работы произошла ошибка:
+> './stead//stead/stead.lua:2420: Can not save classes'
+
+```lua
+---@class TomatoModel
+---@field rotted boolean
+local tomato_model = {}
+
+---@return TomatoModel
+function tomato_model:new()
+  ---@type TomatoModel
+  local instance = {
+    rotted = false,
+  }
+  return instance
+end
+
+function tomato_model:rot()
+  self.rotted = true
+end
+
+room {
+  nam = "main",
+  disp = "Главная",
+}:with {
+  obj {
+    nam = "помидор",
+    disp = "Помидор",
+    state = tomato_model:new(),
+    dsc = "На полу валяется {помидор}.",
+    act = function (this)
+      ---@type TomatoModel
+      local model = this.state
+      if not model.rotted then
+        pn "Хороший помидор."
+        tomato_model.rot(model)
+      else
+        pn "Гнилой помидор, однако."
+      end
+    end
+  }
+}
+```
