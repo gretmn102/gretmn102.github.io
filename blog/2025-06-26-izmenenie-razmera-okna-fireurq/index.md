@@ -1,4 +1,5 @@
 ---
+image: ./social-card.webp
 tags:
   - fireurq (furq)
   - dxwnd
@@ -8,6 +9,8 @@ authors:
 # Изменение размера окна FireURQ
 
 FireURQ v2.2.4 не поддерживает изменение окна, но с чудесной программой DxWnd мы можем исправить этот недостаток. Об этом и пойдет речь в данной статье.
+
+![social-card](./social-card.webp)
 
 <!-- truncate -->
 
