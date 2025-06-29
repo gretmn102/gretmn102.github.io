@@ -31,6 +31,8 @@ couldn't installed reason -8
   am startservice ca.zgrs.clipper/.ClipboardService
   ```
 
+  am — Activity Manager
+
   возможно, для `am` может понадобиться пакет `termux-am`
 
 Отправить данные буфер обмена:
