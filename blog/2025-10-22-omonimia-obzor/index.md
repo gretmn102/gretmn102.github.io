@@ -12,7 +12,7 @@ authors:
 
 <!-- truncate -->
 
-<!-- todo: написать, что за игра, где взять, год, где участвовала -->
+Автор игры — Luka. В игру можно поиграть на [ifiction.ru](https://forum.ifiction.ru/viewtopic.php?id=2741&lid=13), или в [каталоге INSTEAD](https://instead-games.ru/game.php?ID=387). Написана на конкурс [КРИЛ 2023](https://ifwiki.ru/КРИЛ_2023).
 
 ## Завязка
 
