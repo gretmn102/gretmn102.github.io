@@ -43,11 +43,12 @@ set -euo pipefail
 task_folder= # todo: заполнить!
 
 usage() {
-  echo "Usage: $(basename "$0") (push|pull)"
+  echo "Usage: $(basename "$0") (push|pull|status)"
   echo
   echo "Where:"
   echo "  push        commit and push to remote"
   echo "  pull        pull from remote"
+  echo "  status"
   echo
   echo "Options:"
   echo "  --help, -h  Show this help."
@@ -64,6 +65,12 @@ push() {
 pull() {
   cd $task_folder
   git pull
+  exit 0
+}
+
+status() {
+  cd $task_folder
+  git status
   exit 0
 }
 
@@ -84,6 +91,10 @@ while [[ $# -gt 0 ]]; do
       ;;
     pull)
       pull
+      shift
+      ;;
+    status)
+      status
       shift
       ;;
     *)
