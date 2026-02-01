@@ -3,6 +3,7 @@ tags:
    - mint
    - горячие_клавиши
    - раскладка_клавиатуры
+   - xkbcomp
 ---
 # Set win+ijkl shorcuts as arrow keys in Mint
 
@@ -10,7 +11,7 @@ tags:
 
 Чтобы определить код `win`:
 
-```
+```bash
 xmodmap -pke | grep -i "Super_L"
 xmodmap -pke | grep -i j
 ```
@@ -88,7 +89,7 @@ xmodmap -e "add mod5 = ISO_Level3_Shift"
 
 Кстати, есть вот такая громадина:
 
-```
+```xmodmap
 keycode  74 = F8 F8 F8 F8 F8 F8 XF86Switch_VT_8 F8 F8 XF86Switch_VT_8 F8 F8 F8 F8 XF86Switch_VT_8
 ```
 
@@ -104,8 +105,6 @@ xmodmap -e "keycode  24 = q Q Cyrillic_shorti Cyrillic_SHORTI w W e E R r T t"
 
 Remapping the Win (Super) key to ISO_Level3_Shift with `xmodmap`:
 
-
-
 append `~/.Xmodmap`:
 
 ```conf
@@ -113,7 +112,6 @@ clear mod4
 add mod4 = Super_L
 keycode 44 = j J
 ```
-
 
 [xmodmap doesn't work anymore after upgrading to 22.04](https://askubuntu.com/questions/1403490/xmodmap-doesnt-work-anymore-after-upgrading-to-22-04) -- э
 
@@ -150,7 +148,8 @@ xdotool key --clearmodifiers Left
 unbind **Push tile left**
 
 Чтобы проветить, что оно вообще работает (**осторожно** громкий звук!)
-```
+
+```bash
 speaker-test -t sine -f 1000 -l 1
 ```
 
@@ -166,7 +165,7 @@ mkdir -p ~/.xkb/symbols
 
 create `custom` file:
 
-```
+```xkb
 default  partial alphanumeric_keys
 xkb_symbols "mod4_j_left" {
   // Ensure Mod4 is defined as the Super/Windows key
@@ -183,9 +182,9 @@ xkb_symbols "mod4_j_left" {
 
 setxkbmap -print | xkbcomp -I$HOME/.xkb - $DISPLAY
 setxkbmap -layout us -option '' -rules evdev -model pc105 -variant '' -option '' -symbols "pc+us+custom(mod4_j_left)"
+
 ```bash
 setxkbmap -symbols "pc+us+custom(mod4_j_left)"
-
 ```
 
 <!-- setxkbmap -option grp:caps_toggle -->
@@ -196,9 +195,23 @@ setxkbmap -symbols "pc+us+ru:2+us:3+inet(evdev)+terminate(ctrl_alt_bksp)+group(c
 
 ## `xkbcomp`
 
+Импортировать настройки:
+
+```bash
+xkbcomp $DISPLAY current.xkb
 ```
+
+Найти `key <LWIN>`
+
+Переименовать на:
+
+```xkb
 key <LWIN> {         [         ISO_Level3_Shift ] };
 ```
+
+Найти `key <AC07>`:
+
+Переименовать на:
 
 ```xkb
 key <AC07> {
@@ -207,4 +220,28 @@ key <AC07> {
     symbols[Group2]= [      Cyrillic_o,      Cyrillic_O, Left ],
     symbols[Group3]= [               j,               J, Left ]
 };
+key <AC08> {
+    // type= "ALPHABETIC",
+    symbols[Group1]= [               k,               K, Down ],
+    symbols[Group2]= [     Cyrillic_el,     Cyrillic_EL, Down ],
+    symbols[Group3]= [               k,               K, Down ]
+};
+key <AC09> {
+    // type= "ALPHABETIC",
+    symbols[Group1]= [               l,               L, Right ],
+    symbols[Group2]= [     Cyrillic_de,     Cyrillic_DE, Right ],
+    symbols[Group3]= [               l,               L, Right ]
+};
+key <AD08> {
+    // type= "ALPHABETIC",
+    symbols[Group1]= [               i,               I, Up ],
+    symbols[Group2]= [    Cyrillic_sha,    Cyrillic_SHA, Up ],
+    symbols[Group3]= [               i,               I, Up ]
+};
 ```
+
+```bash
+xkbcomp current.xkb $DISPLAY
+```
+
+Но это всё слетает, когда перезупается VSCode.
