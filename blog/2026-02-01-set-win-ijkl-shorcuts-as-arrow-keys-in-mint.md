@@ -245,3 +245,17 @@ xkbcomp current.xkb $DISPLAY
 ```
 
 Но это всё слетает, когда перезупается VSCode.
+
+## autokey
+
+* win -> **Software Manager** -> **Autokey-gtk**
+
+```bash
+mkdir -p ~/.config/autokey/data/windir
+```
+
+```bash
+~/.config/autokey/data/windir/arrow_keys.py
+```
+
+Наконец-то, я всё настроил!
