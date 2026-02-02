@@ -41,7 +41,7 @@ setxkbmap -option grp:caps_toggle
 * открыть `Keyboard` (находится в пуске)
 * перейти во вкладку `Layouts`
 * назначить `Switch to next layout` на CapsLock
-  
+
   Должно высветиться `Next Group`
 
 Как этот шаг задать программно -- я не знаю. Я пробовал назначать вот это:
@@ -86,3 +86,29 @@ setxkbmap -option grp:caps_toggle
 * win -> "Startup Applications" -> "+" -> "Custom command
 * name: set switch layout by capslock
 * command: setxkbmap -option grp:caps_toggle
+
+## Ускорение переключения раскладки
+
+По-идеи, если выключить [IBus](https://wiki.archlinux.org/title/IBus), то станет чуточку быстрее переключаться.
+
+Одноразовая акция:
+
+```bash
+ibus exit
+```
+
+Навсегда:
+
+Создать `~/.config/autostart/ibus-exit.desktop`:
+
+```conf
+[Desktop Entry]
+Type=Application
+Exec=ibus exit
+X-GNOME-Autostart-enabled=true
+NoDisplay=false
+Hidden=false
+Name[en_US]=ibus exit
+Comment[en_US]=No description
+X-GNOME-Autostart-Delay=0
+```
