@@ -1,15 +1,20 @@
 ---
+image: ./sokrovishha-doma-na-holme.webp
 tags:
   - ЗОК2026
   - ЗОК
   - ифня
   - отзыв
+  - картинки
+  - фанарт
 authors:
   - fering
 ---
 # Сокровища дома на холме (отзыв)
 
 Осматриваем краткое предисловие — ☠️, начинаем сначала. Жмем «подробнее» — ☠️, начинаем читать!
+
+![sokrovishha-doma-na-holme](./sokrovishha-doma-na-holme.webp)
 
 <!-- truncate -->
 
