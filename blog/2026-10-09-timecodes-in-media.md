@@ -1,4 +1,5 @@
 ---
+# добавить картинку
 authors:
   - fering
 tags:
@@ -56,7 +57,10 @@ ffmpeg -i input.mp4 \
 ffprobe -hide_banner -loglevel error -show_chapters -i output.avi
 ```
 
-<!-- todo: упрощение формата -->
+<!-- todo: упрощение формата
+* https://github.com/ravexina/ffmpeg-metadata-chapter-generator
+* [ffmpeg add chapters to a video without re-encoding using a csv file](https://www.youtube.com/watch?v=O_38IrG0l7g)
+-->
 
 ## Удаление
 
