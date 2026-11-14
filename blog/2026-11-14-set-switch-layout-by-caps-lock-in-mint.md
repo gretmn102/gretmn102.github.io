@@ -6,6 +6,8 @@ tags:
   - linux
   - настройка_раскладки
   - настройка_окружения
+authors:
+  - fering
 ---
 # Set switch layout by Caps Lock in Mint
 
