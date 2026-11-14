@@ -1,7 +1,9 @@
 ---
 tags:
   - mint
-  - xmodmap
+  - xkb
+  - cinnamon
+  - linux
   - настройка_раскладки
   - настройка_окружения
 ---
