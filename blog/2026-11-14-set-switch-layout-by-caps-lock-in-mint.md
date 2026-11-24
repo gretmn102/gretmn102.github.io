@@ -11,6 +11,10 @@ authors:
 ---
 # Set switch layout by Caps Lock in Mint
 
+Продолжаю настраивать окружение в Linux Mint под себя. В этот раз заставляю Caps Lock менять раскладку.
+
+<!-- truncate -->
+
 ## Через Keyboard XKB Options
 
 * Сохранить
